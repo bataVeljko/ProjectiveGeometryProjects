@@ -1,2 +1,3 @@
 # ProjectiveGeometryProjects
-A couple task and one project for course 'Projective geometry in computer science' at Faculty of Mathematics, University of Belgrade
+
+For all tasks I was using Eigen library: [a link](https://eigen.tuxfamily.org/dox/index.html)
